@@ -13,19 +13,19 @@ namespace NimbleRx
             var pathToCharacterMap = Console.ReadLine();
 
             // Sample Path
-            //var pathToCharacterMap = @"C:\Users\james\Documents\NimbleRx\Test Files\CharacterMap.txt";
+            //var pathToCharacterMap = @"C:\Users\james\Documents\GitHub\PasswordScrambler\NimbleRx\Test Files\CharacterMap.txt";
 
             Console.WriteLine("Enter the path to Passwords Text File:");
             var pathToPasswords = Console.ReadLine();
 
             // Sample Path
-            //var pathToPasswords = @"C:\Users\james\Documents\NimbleRx\Test Files\Passwords.txt";
+            //var pathToPasswords = @"C:\Users\james\Documents\GitHub\PasswordScrambler\NimbleRx\Test Files\Passwords.txt";
 
             Console.WriteLine("Enter the output directory for the New Passwords File:");
             var outputPath = Console.ReadLine();
 
             // Sample Path
-            //var outputPath = @"C:\Users\james\Documents\NimbleRx\Test Files\";
+            //var outputPath = @"C:\Users\james\Documents\GitHub\PasswordScrambler\NimbleRx\Test Files\";
 
             try
             {
